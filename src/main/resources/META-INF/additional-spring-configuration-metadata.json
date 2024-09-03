@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.datasource.driver-class-nme",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.driver-class-nme'"
+  },
+  {
+    "name": "mybatis.configuratin.map-underscore-to-camel-case",
+    "type": "java.lang.String",
+    "description": "A description for 'mybatis.configuratin.map-underscore-to-camel-case'"
+  }
+]}
